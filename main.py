@@ -58,8 +58,8 @@ def load_LLM(openai_api_key):
 
 
 # Page title and header
-st.set_page_config(page_title="NeuralVibe's Re-write your text app", layout="wide")
-st.header("NeuralVibe's Re-write your text app")
+st.set_page_config(page_title="Deviceology's Re-write your text app", layout="wide")
+st.header("Deviceology's Re-write your text app")
 
 # Intro: instructions
 col1, col2 = st.columns([2, 2])  # Adjust the width ratios here
